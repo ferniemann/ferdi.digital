@@ -99,4 +99,12 @@ menu a {
   main {
     font-size: 100%;
   }
+
+  img {
+    grid-column: span 3;
+  }
+
+  .header-text {
+    grid-column: span 5;
+  }
 }
